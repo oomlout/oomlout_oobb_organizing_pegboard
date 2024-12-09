@@ -2,5 +2,7 @@ project_id: oomlout_oobb_organizing_pegboard
 project_name: Oomlout Oobb Organizing Pegboard
 project_repo: https://github.com/oomlout/oomlout_oobb_organizing_pegboard
 production_format:
-  oolc_1_oomlout_oobb_organizing_pegboard_test-05_05:
+  oolc_1_oomlout_oobb_organizing_pegboard_test_05_05:
     file_location: source_files/oolc_1.cdr
+  oolc_2_oomlout_oobb_organizing_pegboard_test_06_14:
+    file_location: source_files/oolc_2.cdr
