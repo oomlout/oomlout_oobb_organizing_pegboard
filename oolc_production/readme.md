@@ -22,3 +22,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_3_oomlout_oobb_organizing_pegboard_test_03_03
+* link: [/oolc_3_oomlout_oobb_organizing_pegboard_test_03_03](oolc_3_oomlout_oobb_organizing_pegboard_test_03_03)  
+![](oolc_3_oomlout_oobb_organizing_pegboard_test_03_03/working_300.png)  
+![](oolc_3_oomlout_oobb_organizing_pegboard_test_03_03/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
